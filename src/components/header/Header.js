@@ -46,7 +46,7 @@ class Navigation extends React.Component{
               <IconButton className={classes.menuButton} color="inherit" aria-label="Menu">
                 <MenuIcon />
               </IconButton>
-              <Paper className={classes.root}>
+              <Paper className={classes.root} style={{backgroundColor:"hsl(231, 48%, 48%)"}}>
         <Tabs
           value={this.state.value}
           onChange={this.handleChange}
