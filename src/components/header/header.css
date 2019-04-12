@@ -1,0 +1,18 @@
+.MuiPaper-elevation2-17{
+    box-shadow: none!important;
+  }
+  .MuiPaper-rounded-14{
+    border-radius: 0!important;
+
+  }
+  .MuiPaper-root-13{
+   background-color: #3f51b5!important;
+
+  }
+  .MuiPaper-root-13 a{
+      color:#ffffff!important;
+  }
+  .MuiTab-textColorInherit-73{
+      opacity: 1!important;
+      text-decoration: none!important;
+  }
